@@ -1,4 +1,4 @@
-## Slac Overflow: a bot to provide smart siggestions for slack
+## Slac Overflow: a bot whic provide smart suggestions for slack
 
 
 
