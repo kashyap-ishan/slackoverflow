@@ -1,0 +1,32 @@
+{
+  "name": "slackoverflow",
+  "version": "1.0.0",
+  "description": "slack bot to look into chat history to find answers for similarly asked questions",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kashyap-ishan/slackoverflow.git"
+  },
+  "keywords": [
+    "slack",
+    "bot",
+    "suggestions",
+    "questions",
+    "answers",
+    "sre"
+  ],
+  "author": "Ishan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kashyap-ishan/slackoverflow/issues"
+  },
+  "homepage": "https://github.com/kashyap-ishan/slackoverflow#readme",
+  "dependencies": {
+    "@slack/events-api": "^3.0.0",
+    "@slack/web-api": "^6.1.0",
+    "moment": "^2.29.1"
+  }
+}
